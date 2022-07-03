@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I'm Veerabhadra swamy uppu
+- I'm currently learning Django
+
 
 <!--
 **ultra-hash/ultra-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
