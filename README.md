@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I'm Veerabhadra swamy uppu
-- I'm currently learning Django
+- I'm currently learning Django , JavaScript
 
 
 <!--
