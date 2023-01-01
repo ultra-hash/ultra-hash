@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I'm Veerabhadra swamy uppu
-- I'm currently learning Django , Ansible
+- I'm currently learning Django
 
 
 <!--
