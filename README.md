@@ -1,7 +1,6 @@
 ### Hi there 👋
 - I'm Veerabhadra swamy uppu
-- I'm currently learning Full Stack Development in MERN Stack
-- At NxtWave
+- I'm currently learning Full Stack Development (MERN Stack) at NxtWave
 
 
 <!--
