@@ -15,10 +15,10 @@
 | Category | Skills |
 | --- | --- |
 | Programming Languages | [![My Skills](https://skillicons.dev/icons?i=python,javascript,php&theme=light)](https://skillicons.dev) |
-| Web Development | [![My Skills](https://skillicons.dev/icons?i=html,css,react,expressjs,django&theme=light)](https://skillicons.dev) |
-| Database Management | [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=light)](https://skillicons.dev) |
+| Web Development | [![My Skills](https://skillicons.dev/icons?i=html,css,expressjs,django&theme=light)](https://skillicons.dev) |
+| Database Management | [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=light)](https://skillicons.dev) |
 | Server Management | [![My Skills](https://skillicons.dev/icons?i=linux,nginx&theme=light)](https://skillicons.dev) |
 | Containerization and Virtualization | [![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev) |
 | Version Control | [![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev) |
-| Cloud Computing | [![My Skills](https://skillicons.dev/icons?i=aws,azure&theme=light)](https://skillicons.dev) |
+<!-- | Cloud Computing | [![My Skills](https://skillicons.dev/icons?i=aws,azure&theme=light)](https://skillicons.dev) | -->
 
