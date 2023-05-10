@@ -2,8 +2,7 @@
 # Hi, I'm Veerabhadra Swamy Uppu! 👋
 
 ## 🚀 About Me
-- I'm an aspiring full stack developer ( MERN )
-- I'm passinate , enthusiastic, self taught programmer
+- I'm passinate , enthusiastic, self taught programmer. Currently learn MERN full stack @ NxtWave
 - Over the years, I've developed a deep love and appreciation for the art and science of programming. There's something incredibly satisfying about taking a complex problem and breaking it down into smaller, more manageable pieces that a computer can understand. And when everything comes together and you finally see your program running flawlessly, it's an amazing feeling.
 - Ultimately, my goal is to become a skilled and accomplished programmer, one who's capable of tackling any problem and building innovative, elegant solutions. And while I know there's a lot of hard work ahead of me, I'm eager to dive in and make it happen. Because at the end of the day, there's nothing I'd rather be doing than programming.
 
