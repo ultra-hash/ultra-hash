@@ -14,7 +14,7 @@
 | Category | Skills |
 | --- | --- |
 | Programming Languages | [![My Skills](https://skillicons.dev/icons?i=php,python,javascript&theme=light)](https://skillicons.dev) |
-| Web Development | [![My Skills](https://skillicons.dev/icons?i=html,css,django,nodejs,expressjs&theme=light)](https://skillicons.dev) |
+| Web Development | [![My Skills](https://skillicons.dev/icons?i=html,css,django,nodejs,expressjs,react&theme=light&perline=3)](https://skillicons.dev) |
 | Database Management | [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=light)](https://skillicons.dev) |
 | Server Management | [![My Skills](https://skillicons.dev/icons?i=linux,nginx&theme=light)](https://skillicons.dev) |
 | Containerization and Virtualization | [![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev) |
