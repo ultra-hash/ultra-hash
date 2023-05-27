@@ -21,3 +21,4 @@
 | Version Control | [![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev) |
 <!-- | Cloud Computing | [![My Skills](https://skillicons.dev/icons?i=aws,azure&theme=light)](https://skillicons.dev) | -->
 
+![ultra-hash's github stats](https://github-readme-stats.vercel.app/api?username=ultra-hash)
