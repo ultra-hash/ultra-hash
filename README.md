@@ -9,9 +9,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ultra-hash&label=Profile%20views&color=0e75b6&style=flat" alt="ultra-hash" /> </p> -->
 
-## 🛠 Skills
+## 🛠 Skills / Tools
 
-| Category | Skills |
+| Category | Skills/Tools |
 | --- | --- |
 | Programming Languages | [![My Skills](https://skillicons.dev/icons?i=php,python,javascript&theme=light)](https://skillicons.dev) |
 | Web Development | [![My Skills](https://skillicons.dev/icons?i=html,css,django,nodejs,expressjs,react,bootstrap&theme=light&perline=3)](https://skillicons.dev) |
