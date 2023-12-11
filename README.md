@@ -15,11 +15,11 @@
 | --- | --- |
 | Programming Languages | [![My Skills](https://skillicons.dev/icons?i=php,python,javascript&theme=light)](https://skillicons.dev) |
 | Web Development | [![My Skills](https://skillicons.dev/icons?i=html,css,django,nodejs,expressjs,react,bootstrap&theme=light&perline=3)](https://skillicons.dev) |
-| Database Management | [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=light)](https://skillicons.dev) |
+| Database Management | [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=light)](https://skillicons.dev) |
 | Server Management | [![My Skills](https://skillicons.dev/icons?i=linux,nginx&theme=light)](https://skillicons.dev) |
 | Containerization and Virtualization | [![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev) |
 | Version Control | [![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev) |
-<!-- | Cloud Computing | [![My Skills](https://skillicons.dev/icons?i=aws,azure&theme=light)](https://skillicons.dev) | -->
+| Cloud Computing | [![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev) |
 
 ![ultra-hash's github stats](https://github-readme-stats.vercel.app/api?username=ultra-hash)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ultra-hash" alt="ultra-hash" /></p>
