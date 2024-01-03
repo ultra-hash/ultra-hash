@@ -25,10 +25,10 @@
 - I'm a Full Stack Developer
 - Look for a Professional Experience/Job  
 - In my free time, I solve chess puzzles, and try build stuff from scratch..
-- 📫 How to reach me: [![Static Badge](https://img.shields.io/badge/Veerabhadra%20swamy%20uppu-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/veerabhadra-swamy-uppu/)   
+- How to reach me: [![Static Badge](https://img.shields.io/badge/Veerabhadra%20swamy%20uppu-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/veerabhadra-swamy-uppu/)   
 
 ### 🛠 Languages & Tools
-<div>
+<div align="center">
   <img title="php" src="https://skillicons.dev/icons?i=php&theme=light" />
   <img title="python" src="https://skillicons.dev/icons?i=python&theme=light" />
   <img title="javascript" src="https://skillicons.dev/icons?i=javascript&theme=light" />
