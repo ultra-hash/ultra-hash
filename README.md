@@ -21,13 +21,16 @@
 <h1 align="center"> Hi, there! 👋</h1>
 
 
-### 🚀 About Me
-- I'm a Full Stack Developer
-- Look for a Professional Experience/Job  
-- In my free time, I solve chess puzzles, and try build stuff from scratch..
+### ❤️‍🔥 About Me
+- I'm a MERN Full Stack Developer 
+- Looking for a Professional Experience/Job  
+- In my free time, I solve chess puzzles, loves riding bike, and trying to make a habbit of reading books.
+  - Reading Articles related to Technology, Electronics, Automobiles.. etc
+  - Reading Books - The Full Stack developer, Rich Dad Poor Dad.
+  - Watching Anime - Naruto, One Piece, Jujutsu Kaizen, Demon Slayer etc
 - How to reach me: [![Static Badge](https://img.shields.io/badge/Veerabhadra%20swamy%20uppu-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/veerabhadra-swamy-uppu/)   
 
-### 🛠 Languages & Tools
+### 🛠️ Languages & Tools
 <div align="center">
   <img title="php" src="https://skillicons.dev/icons?i=php&theme=light" />
   <img title="python" src="https://skillicons.dev/icons?i=python&theme=light" />
