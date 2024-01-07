@@ -28,6 +28,7 @@
   - Reading Articles related to Technology, Electronics, Automobiles.. etc
   - Reading Books - The Full Stack developer, Rich Dad Poor Dad.
   - Watching Anime - Naruto, One Piece, Jujutsu Kaizen, Demon Slayer etc
+  - started learning japanese 
 - How to reach me: [![Static Badge](https://img.shields.io/badge/Veerabhadra%20swamy%20uppu-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/veerabhadra-swamy-uppu/)   
 
 ### 🛠️ Languages & Tools
