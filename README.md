@@ -22,7 +22,7 @@
 
 
 ### ❤️‍🔥 About Me
-- I'm an aspiring MERN Full Stack Developer with proven hands-on expierence 
+- I'm an aspiring MERN Full Stack Developer with proven hands-on experience 
 - Looking for a Professional Experience/Job
 - In my free time, I solve chess puzzles, loves riding bike, and trying to make a habbit of reading books.
   - Reading Articles related to Technology, News, any interesting titles.. etc
