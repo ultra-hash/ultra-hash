@@ -22,13 +22,12 @@
 
 
 ### ❤️‍🔥 About Me
-- I'm a MERN Full Stack Developer 
-- Looking for a Professional Experience/Job  
+- I'm an aspiring MERN Full Stack Developer with proven hands-on expierence 
+- Looking for a Professional Experience/Job
 - In my free time, I solve chess puzzles, loves riding bike, and trying to make a habbit of reading books.
-  - Reading Articles related to Technology, Electronics, Automobiles.. etc
+  - Reading Articles related to Technology, News, any interesting titles.. etc
   - Reading Books - The Full Stack developer, Rich Dad Poor Dad.
   - Watching Anime - Naruto, One Piece, Jujutsu Kaizen, Demon Slayer etc
-  - Started learning japanese 
 - How to reach me: [![Static Badge](https://img.shields.io/badge/Veerabhadra%20swamy%20uppu-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/veerabhadra-swamy-uppu/)   
 
 ### 🛠️ Languages & Tools
