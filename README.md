@@ -22,11 +22,12 @@
 
 
 ### ❤️‍🔥 About Me
-- I'm an aspiring MERN Full Stack Developer with proven hands-on experience 
-- Looking for a Professional Experience/Job
+- Currently working as an Implementation Support Engineer, at Datafrond (India) Pvt, gaining a diverse skill set across technologies.
+- I have a proven track record in MERN stack development and hands-on full-stack project experience.
+- While I'm not actively seeking opportunities at the moment, I continue to strengthen my expertise in both support engineering and full-stack development.
 - In my free time, I solve chess puzzles, loves riding bike, and trying to make a habbit of reading books.
   - Reading Articles related to Technology, News, any interesting titles.. etc
-  - Reading Books - The Full Stack developer, Rich Dad Poor Dad.
+  - Reading Books - The Full Stack developer, Rich Dad Poor Dad, Deep Work.
   - Watching Anime - Naruto, One Piece, Jujutsu Kaizen, Demon Slayer etc
 - How to reach me: [![Static Badge](https://img.shields.io/badge/Veerabhadra%20swamy%20uppu-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/veerabhadra-swamy-uppu/)   
 
@@ -51,6 +52,7 @@
   <img title="Jenkins" src="https://skillicons.dev/icons?i=jenkins&theme=light" />
   <img title="Git" src="https://skillicons.dev/icons?i=git&theme=light" />
   <img title="AWS" src="https://skillicons.dev/icons?i=aws&theme=light" />
+  <img title="Java" src="https://skillicons.dev/icons?i=java&theme=light" />
 </div>
 
 ### :fire: My Stats :
