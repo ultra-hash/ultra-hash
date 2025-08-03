@@ -22,7 +22,8 @@
 
 
 ### ❤️‍🔥 About Me
-- Currently working as an Implementation Support Engineer, at Datafrond (India) Pvt, gaining a diverse skill set across technologies.
+- Currently working as an Implementation Support Engineer, at Datafrond (India) Private Limited , working with Windchill (PLM).
+- Focused on gaining a diverse skill set across technologies and industries.
 - I have a proven track record in MERN stack development and hands-on full-stack project experience.
 - While I'm not actively seeking opportunities at the moment, I continue to strengthen my expertise in both support engineering and full-stack development.
 - In my free time, I solve chess puzzles, loves riding bike, and trying to make a habbit of reading books.
